@@ -7,7 +7,7 @@ div {
     border-color:black;
     border-radius:50%;
 
-    background-image:url(abismo1.png);
+    background-image:url("abismo1.png");
     text-align:top;
     box-shadow: inset 15px 15px 20px 20px rgb(0, 0, 0);
     background-size:cover;
